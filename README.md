@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/rashuu-ali/rashuu-ali/blob/main/new%20img.png)
 <h1 align="center">Hi 👋, I'm Rashid ali</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
 
