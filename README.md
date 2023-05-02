@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashuu-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rashuu-ali" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=rashuu-ali" alt="rashuu-ali" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=rashuu-ali-ma&theme=nord" alt="rashuu-ali" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rashidalinagari](https://github.com/rashidalinagari)
 
