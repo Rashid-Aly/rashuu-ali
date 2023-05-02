@@ -1,6 +1,6 @@
 ![Logo](https://github.com/rashuu-ali/rashuu-ali/blob/main/new%20img.png)
-<h1 align="center">Hi 👋, I'm Rashid ali</h1>
-<h3 align="center">A passionate front-end developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Rashid Ali</h1>
+<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashuu-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rashuu-ali" /> </p>
 
